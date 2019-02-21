@@ -1,0 +1,28 @@
+
+h2 {
+	color: red;
+	font-size: 100px;
+
+
+}
+
+body{
+
+	background-color: #CCCCFF;
+	width: 100%; 
+	margin: auto;
+}
+
+#content{
+	margin: auto;
+	width: 980px;
+	height: auto;
+	background-color: white;
+}
+
+#header{
+	float: left;
+	width: 980px;
+	height: auto;
+	background-color: white;
+}
